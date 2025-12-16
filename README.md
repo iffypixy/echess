@@ -1,4 +1,4 @@
-# chess-platform
+# echess
 
 ## structure
 
